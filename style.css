@@ -1,0 +1,14 @@
+.form-design{
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(156, 138, 138);
+    border-radius: 10px;
+}
+.form-content{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(167, 238, 177);
+    border-radius: 10px;
+}
